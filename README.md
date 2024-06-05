@@ -16,6 +16,7 @@ Welcome to Read-Hub! 이 레포지토리는 개인적으로 재밌거나 유용�
 
 - [JWT가 필요한가?](https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/) - 실제로 정당한 목적과 이유가 있는 JWT를 사용하고 있는지 고찰
 - [Rate Limit 정책](https://www.mimul.com/blog/about-rate-limit-algorithm/) - Rate Limit를 구현할 때, 고려해볼만한 사항들
+- [AI 모델 서빙 구조](https://tech.kakaopay.com/post/model-serving-framework/#모델-서빙-구성) - 모델 서빙 구성에 관한 글
 
 ## IDE
 
